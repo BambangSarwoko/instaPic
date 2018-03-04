@@ -1,0 +1,33 @@
+.gaya{text-align: center; padding: 20px} 
+   .container-fluid {height:200px}
+   body { 
+    max-width: 960;
+    margin: 0 center;
+    background: green;
+   }
+
+   aside { 
+       font-size: 30px; 
+       color: white;
+       }
+
+   .gaya > img { 
+       width: 200px; 
+       height:200px;
+       }
+
+   h1 { 
+       font-size: 70px;
+       color:white;
+       text-align: center;
+       }
+   
+   a > img {
+       width: 70px; 
+       height:70px;
+       opacity:1;
+       }
+   a > img:hover {
+       opacity:0.5;
+       }
+   
